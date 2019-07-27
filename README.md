@@ -1,1 +1,1 @@
-# seleniumjava
+# seleniumjava_sample
